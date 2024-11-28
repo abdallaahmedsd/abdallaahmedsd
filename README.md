@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a passionate developer focused on building scalable,
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: C#, C++, SQL  
+- **Languages**: C#, C++
 - **Frameworks**: .NET (Core & Framework), ASP.NET Core (MVC | Web API)  
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap, Razor Pages, jQuery, Ajax  
 - **Database**: SQL Server, T-SQL, ADO.NET, EF Core  
