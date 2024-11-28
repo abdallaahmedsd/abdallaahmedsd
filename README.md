@@ -46,5 +46,3 @@ Desktop app for managing licenses and registrations with a 3-Tier architecture.
 ## 📫 Connect with Me  
 - **Email**: [abdallaahmedsudanese@gmail.com](mailto:abdallaahmedsudanese@gmail.com)  
 - **LinkedIn**: [Abdalla Ahmed](https://www.linkedin.com/in/abdallaahmedsd/) 
-
----
