@@ -25,13 +25,13 @@ A full-featured online bookstore with product management, Stripe payments, and a
 A robust platform for browsing, managing, and purchasing laptops. Includes an admin panel for product and user management.  
 **Tech**: .NET 6, ASP.NET Core MVC, EF Core, SQL Server, Bootstrap  
 
-### [Driving & Vehicle License System](https://github.com/abdallaahmedsd/DVLD)  
-Desktop app for managing licenses and registrations with a 3-Tier architecture.  
-**Tech**: .NET Framework, WinForms, SQL Server, ADO.NET  
-
 ### [Karate Club Management System](https://github.com/abdallaahmedsd/Karate-Club-Management-System)  
 Desktop app for managing clubs, members, and payments using stored procedures.  
-**Tech**: .NET Framework, WinForms, SQL Server  
+**Tech**: .NET Framework, WinForms, SQL Server
+
+### [Driving & Vehicle License System](https://github.com/abdallaahmedsd/DVLD)  
+Desktop app for managing licenses and registrations with a 3-Tier architecture.  
+**Tech**: .NET Framework, WinForms, SQL Server, ADO.NET    
 
 ---
 
