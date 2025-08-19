@@ -1,5 +1,5 @@
 # Hi, I'm Abdalla Ahmed! 👋  
-**Full Stack Developer | .NET Specialist**
+**Junior Software Engineer | .NET Specialist**
 
 Welcome to my GitHub! I’m a passionate developer focused on building scalable, maintainable desktop and web applications using .NET technologies. I enjoy solving complex problems, optimizing systems, and continuously learning.
 
