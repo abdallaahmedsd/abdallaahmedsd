@@ -8,8 +8,8 @@ Welcome to my GitHub! I’m a passionate developer focused on building scalable,
 ## 🛠️ Tech Stack  
 - **Languages**: C#, C++
 - **Frameworks**: .NET (Core & Framework), ASP.NET Core (MVC | Web API)  
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Razor Pages, jQuery, Ajax  
-- **Database**: SQL Server, T-SQL, ADO.NET, EF Core  
+- **Frontend**: WordPress, HTML, CSS, JavaScript, Bootstrap, Razor Pages, jQuery, Ajax  
+- **Database**: SQL Server, SQLite, MySQL, T-SQL, ADO.NET, EF Core  
 - **Design**: SOLID Principles, Design Patterns (Repository, Unit of Work)  
 - **Tools**: Git, GitHub, Postman, Swagger  
 
